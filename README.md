@@ -1,19 +1,16 @@
 # ESP8266 ESP-01 - NeoPixel NeoMatrix - Text Scroller
-This works and has been tested with the Arduino IDE v1.6.7 & v1.6.8  
+This has been tested and works with the Arduino IDE v1.6.7 & v1.6.8  
 
 ### Original work by Samir Sogay:
 https://www.youtube.com/watch?v=TfzFJkDgg7s  
 Original working files are linked from his YouTube video as well.  
 
 
-### Some of the original steps to make Samir's code work:
-https://forums.adafruit.com/viewtopic.php?f=24&t=87346   
-
-
 ## Project Hardware
 - [ESP8266 - ESP-01 WiFi Module](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbs=vw:l,mr:1,price:1,ppr_max:10&tbm=shop&q=esp-01+wi-fi)
 - [NeoMatrix x2](https://www.adafruit.com/products/1487)
 - Homemade board to hold the ESP8266 & connect the NeoMatrix
+
 
 ## Getting Started
 - Download the [Spectrum Colorpicker](https://github.com/bgrins/spectrum) from github and on a server you can access the files. Alternativly you can try to link directly to GitHub.
@@ -32,3 +29,11 @@ const char* WiFi_PASS = "<PASSWORD-HERE>";
 - Find your ESP-01's IP Address and connect with a browser
 - You may need to adjust the direction of the scrolling code "NEO_MATRIX_RIGHT" w/ "NEO_MATRIX_LEFT"
 - Have fun!
+
+![Demo Shot](/screenshots/ESP-01-NeoMatrix.png)
+
+![Demo Shot Color Picker Open](/screenshots/ESP-01-NeoMatrix-Colorpicker.png)
+
+
+### Troubleshooting: some of the original steps to make Samir's code work for me:  
+https://forums.adafruit.com/viewtopic.php?f=24&t=87346   
