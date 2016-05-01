@@ -36,10 +36,11 @@ const char* WiFi_SSID = "<SSID-HERE>";
 const char* WiFi_PASS = "<PASSWORD-HERE>";
 ```
 
-- Program / upload this repo to your ESP-01 from within the Arduino IDE
-- Connect your NeoMatrix
-- Find your ESP-01's IP Address and connect with a browser
-- You may need to adjust the direction of the scrolling code "NEO_MATRIX_RIGHT" w/ "NEO_MATRIX_LEFT"
+- Program / upload this repo to your ESP-01 from within the Arduino IDE  
+- Connect your NeoMatrix  
+- Find your ESP-01's IP Address and connect with a browser  
+- You may need to adjust the direction of the scrolling code "NEO_MATRIX_RIGHT" w/ "NEO_MATRIX_LEFT"  
+- One final note is I am only using a single NeoMatix in this code, you may need to adjust if you have more  
 - Have fun!
 
 ![Demo Shot](/screenshots/ESP-01-NeoMatrix.png)
