@@ -9,14 +9,20 @@ Original working files are linked from his YouTube video as well.
 ## Project Hardware
 - [ESP8266 - ESP-01 WiFi Module](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbs=vw:l,mr:1,price:1,ppr_max:10&tbm=shop&q=esp-01+wi-fi)
 - [NeoMatrix x2](https://www.adafruit.com/products/1487)
-- Homemade board to hold the ESP8266 & connect the NeoMatrix
+- Homemade board to hold the ESP8266 & connect the NeoMatrix  
+
+
+## Project Software / Arduino Libraries Used
+- Adafruit_GFX  
+- Adafruit_NeoPixel  
+- Adafruit_NeoMatrix  
+- ESP8266httpUpdate  
 
 
 ## Getting Started
-- Download the [Spectrum Colorpicker](https://github.com/bgrins/spectrum) from github and on a server you can access the files. Alternativly you can try to link directly to GitHub.
-
-- Download this repo & open in the Arduino IDE
-- Download the required Adafruit libraries from inside the Arduino IDE (You may need to visit Adafruit.com for a how-to guide)
+- Download the [Spectrum Colorpicker](https://github.com/bgrins/spectrum) from github and on a server you can access the files. Alternatively you can try to link directly to GitHub which the files are currently setup for.  
+- Download this repo & open in the Arduino IDE  
+- Download the required Adafruit libraries from inside the Arduino IDE (You may need to visit Adafruit.com for a how-to guide)  
 - Define Your WiFi Connection Information:  
 
 ```c++
