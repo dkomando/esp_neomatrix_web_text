@@ -2,7 +2,7 @@
 This has been tested and works with the Arduino IDE v1.6.7 & v1.6.8  
 
 ## Credits  
-### Original work by Samir Sogay:  
+### Original ESP-01 to NeoMatrix work by Samir Sogay:  
 https://www.youtube.com/watch?v=TfzFJkDgg7s  
 Original working files are linked from his YouTube video as well.  
 
