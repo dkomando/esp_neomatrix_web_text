@@ -13,6 +13,11 @@ Original working files are linked from his YouTube video as well.
 
 
 ## Project Software / Arduino Libraries Used
+### JavaScript Libraries  
+- [Spectrum Colorpicker](https://github.com/bgrins/spectrum)  
+- [Twitter Bootstrap](http://getbootstrap.com/)  
+
+### Arduino Libraries  
 - Adafruit_GFX  
 - Adafruit_NeoPixel  
 - Adafruit_NeoMatrix  
