@@ -18,10 +18,11 @@ Original working files are linked from his YouTube video as well.
 - [Twitter Bootstrap](http://getbootstrap.com/)  
 
 ### Arduino Libraries  
-- Adafruit_GFX  
-- Adafruit_NeoPixel  
-- Adafruit_NeoMatrix  
-- ESP8266httpUpdate  
+**Make sure to only download these from within the Arduino IDE**  
+- [Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library)  
+- [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)  
+- [Adafruit_NeoMatrix](https://github.com/adafruit/Adafruit_NeoMatrix)  
+- [ESP8266httpUpdate](https://github.com/esp8266/Arduino)  
 
 
 ## Getting Started
