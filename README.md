@@ -26,7 +26,7 @@ Original working files are linked from his YouTube video as well.
 
 
 ## Getting Started
-- Download the [Spectrum Colorpicker](https://github.com/bgrins/spectrum) from github and place on your server so that you can access the files from the sketch. Alternatively you can try to link directly to GitHub which the files are currently setup for but not recommended.  
+- Download the [Spectrum Colorpicker](https://github.com/bgrins/spectrum) from GitHub and place on your server so that you can access the files from the sketch. Alternatively you can try to link directly to GitHub which the files are currently setup for but not recommended.  
 - Download this repo & open in the Arduino IDE  
 - Download the required Adafruit libraries from inside the Arduino IDE (You may need to visit Adafruit.com for a how-to guide)  
 - Define Your WiFi Connection Information:  
