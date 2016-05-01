@@ -1,7 +1,8 @@
 # ESP8266 ESP-01 - NeoPixel NeoMatrix - Text Scroller
 This has been tested and works with the Arduino IDE v1.6.7 & v1.6.8  
 
-### Original work by Samir Sogay:
+## Credits  
+### Original work by Samir Sogay:  
 https://www.youtube.com/watch?v=TfzFJkDgg7s  
 Original working files are linked from his YouTube video as well.  
 
